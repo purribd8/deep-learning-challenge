@@ -6,7 +6,7 @@ The report should contain the following:
 
  --- Overview of the analysis: Explain the purpose of this analysis. ---
 
-The purpose of this analysis to build a neural network that can predict if  applicants will be successful if funded by Alphabet Soup
+* The purpose of this analysis to build a neural network that can predict if  applicants will be successful if funded by Alphabet Soup
 
 
 
