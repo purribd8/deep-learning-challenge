@@ -1,10 +1,10 @@
 # deep-learning-challenge
 
-* For this part of the assignment, you’ll write a report on the performance of the deep learning model you created for Alphabet Soup.
+* For this part of the assignment, you’ll write a report on the performance of the deep learning model you created for Alphabet Soup.*
 
-** The report should contain the following:
+** The report should contain the following:**
 
-*** --- Overview of the analysis: Explain the purpose of this analysis. ---
+*** --- Overview of the analysis: Explain the purpose of this analysis. ---***
 
 The purpose of this analysis to build a neural network that can predict if  applicants will be successful if funded by Alphabet Soup
 
