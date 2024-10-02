@@ -9,6 +9,7 @@ The report should contain the following:
 The purpose of this analysis to build a neural network that can predict if  applicants will be successful if funded by Alphabet Soup
 
 
+
 Results: Using bulleted lists to support your answers, address the following questions:
 
 Data Preprocessing
@@ -24,6 +25,8 @@ Feature variables consist of application type, affiliation, classification, use 
 --- What variable(s) should be removed from the input data because they are neither targets nor features? ---
 EIN number, status
 
+
+
 Compiling, Training, and Evaluating the Model
 
 --- How many neurons, layers, and activation functions did you select for your neural network model, and why? ---
@@ -37,6 +40,8 @@ No
 --- What steps did you take in your attempts to increase model performance? ---
 
 Many steps were taken. The changing of bins bout increasing the amount of bins and decreasing them to see model reaction. Initally I also tried adding the NAME column however this proved to much data to be processed and would crash each time I tried to run it. I also increased and decreased the amount of neurons per layer and also the number of layers as well. Epochs were also increased and decreased. I tried 30,40,50, 100, 200, and 500 epochs
+
+
 
 --- Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.---
 
